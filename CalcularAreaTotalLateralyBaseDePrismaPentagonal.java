@@ -24,7 +24,6 @@ public class CalcularAreaTotalLateralyBaseDePrismaPentagonal {
 		System.out.println("El area lateral es: " + aLateral);
 		System.out.println("El area total es: " + aTotal);
 		entrada.close();
-		//EJERCICIOS 72
 	}
 
 }
